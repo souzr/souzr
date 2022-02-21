@@ -7,7 +7,7 @@
 <ul>
   <li>👀 I’m interested in learning Web Development.</li>
   <li>🌱 I’m currently learning HTML and CSS. <img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/24/Other-html-5-icon.png"><img src="https://icons.iconarchive.com/icons/martz90/hex/24/css-3-icon.png"></li>
-  <li>💬 I'm Brazilian :brazil: and my mother tongue is portuguese. But I speak English in a intermediate level and I'm learning Korean.</li>
+  <li>💬 I'm Brazilian :brazil: and my mother tongue is portuguese. I can also speak English in a intermediate level and I'm learning Korean.</li>
   <li>📫 You can reach me at: souzr@live.com</li>
 </ul>
 
