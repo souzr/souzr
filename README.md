@@ -7,7 +7,7 @@
 <ul>
   <li>👀 I’m interested in learning Web Development.</li>
   <li>🌱 I’m currently learning HTML and CSS. <img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/24/Other-html-5-icon.png"><img src="https://icons.iconarchive.com/icons/martz90/hex/24/css-3-icon.png"></li>
-  <li>💬 I'm Brazilian :brazil: and my mother tongue is portuguese. I can also speak English in a intermediate level and I'm learning Korean.</li>
+  <li>💬 I'm Brazilian :brazil: and my mother tongue is portuguese. I can also speak English in a intermediate level.</li>
   <li>📫 You can reach me at: souzr@live.com</li>
 </ul>
 
@@ -16,7 +16,7 @@
 <a href="https://www.linkedin.com/in/fernandasramos/" _blank><img src="https://img.icons8.com/material-outlined/24/000000/linkedin--v1.png"/></a>
 <a href="https://www.instagram.com/souzr/" _blank><img src="https://img.icons8.com/material-outlined/24/000000/instagram-new--v1.png"/></a>
   
-I also have a <a href="https://tentandoserdev.wordpress.com/">blog.</a>
+
 
 
 <!---
